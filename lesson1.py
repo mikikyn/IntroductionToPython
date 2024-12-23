@@ -1,4 +1,6 @@
-name = input('you are name: ')
-age = input('you are age: ')
+# Запрос имени и возраста у пользователя
+name = input("Enter your name: ")
+age = input("Enter your age: ")
 
-print(f"You're name: {name} and you're age: {age}")
+# Вывод данных с форматированием
+print(f"Your name is {name} and your age is {age}.")
